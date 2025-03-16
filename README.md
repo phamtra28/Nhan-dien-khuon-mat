@@ -1,4 +1,4 @@
-# Nhận diện khuôn mặt độ chính xác cao với InsightFace và mạng nơ-ron sâu
+# NHẬN DIỆN KHUÔN MẶT ĐỘ CHÍNH XÁC CAO VỚI INSIGHT FACE VÀ MẠNG NƠ-RON SÂU
 
 ## 📌 Giới thiệu
 Hệ thống nhận diện khuôn mặt sử dụng **InsightFace** và **mạng nơ-ron sâu** để xác định danh tính một cách chính xác. Dự án áp dụng cho các hệ thống điểm danh tự động, kiểm soát truy cập và bảo mật. Nhờ vào **ArcFace**, hệ thống đảm bảo nhận diện ngay cả khi có thay đổi về ánh sáng, góc chụp hoặc biểu cảm khuôn mặt.
